@@ -1,4 +1,11 @@
 ### Hi there 👋
+I'm Luca Pellegrini
+
+I'm a Biomedical Engineering student @ University of Padua (Italy)
+
+- (In my very little spare time) I’m currently learning Bash, Python and C++
+- I'm a Free and Open Source Software enthusiast
+- I run Debian and Linux Mint btw 😁
 
 <!--
 **luca-pellegrini/luca-pellegrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

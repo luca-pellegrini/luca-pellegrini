@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm Luca Pellegrini
 
-I'm a Biomedical Engineering student @ University of Padua (Italy)
+I study Biomedical Engineering @ University of Padua (Italy)
 
-- (In my very little spare time) I’m currently learning Bash, Python and C++
+- I’m currently learning Python, C++, and Bash scripting
 - I'm a Free and Open Source Software enthusiast
 - I run Debian and Linux Mint btw 😁
 

@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Luca Pellegrini
 
-I study Biomedical Engineering @ University of Padua (Italy)
+I'm studying Computer Engineering (Master's degree) @ University of Padova (Italy)
 
 - I’m currently learning Python, C++, and Bash scripting
 - I'm a Free and Open Source Software enthusiast

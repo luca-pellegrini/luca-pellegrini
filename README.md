@@ -5,7 +5,7 @@ I'm studying Computer Engineering (Master's degree) @ University of Padova (Ital
 
 - I’m currently learning Python, C++, and Bash scripting
 - I'm a Free and Open Source Software enthusiast
-- I run Debian and Linux Mint btw 😁
+- I run Debian GNU/Linux btw 😁
 
 <!--
 **luca-pellegrini/luca-pellegrini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
